@@ -1,0 +1,11 @@
+c:\users\galdo\source\repos\elasticsearch\elasticsearch\bin\Debug\netcoreapp2.0\elasticsearch.deps.json
+c:\users\galdo\source\repos\elasticsearch\elasticsearch\bin\Debug\netcoreapp2.0\elasticsearch.runtimeconfig.json
+c:\users\galdo\source\repos\elasticsearch\elasticsearch\bin\Debug\netcoreapp2.0\elasticsearch.runtimeconfig.dev.json
+c:\users\galdo\source\repos\elasticsearch\elasticsearch\bin\Debug\netcoreapp2.0\elasticsearch.dll
+c:\users\galdo\source\repos\elasticsearch\elasticsearch\obj\Debug\netcoreapp2.0\elasticsearch.csprojResolveAssemblyReference.cache
+c:\users\galdo\source\repos\elasticsearch\elasticsearch\obj\Debug\netcoreapp2.0\elasticsearch.csproj.CoreCompileInputs.cache
+c:\users\galdo\source\repos\elasticsearch\elasticsearch\obj\Debug\netcoreapp2.0\elasticsearch.AssemblyInfoInputs.cache
+c:\users\galdo\source\repos\elasticsearch\elasticsearch\obj\Debug\netcoreapp2.0\elasticsearch.AssemblyInfo.cs
+c:\users\galdo\source\repos\elasticsearch\elasticsearch\bin\Debug\netcoreapp2.0\elasticsearch.pdb
+c:\users\galdo\source\repos\elasticsearch\elasticsearch\obj\Debug\netcoreapp2.0\elasticsearch.dll
+c:\users\galdo\source\repos\elasticsearch\elasticsearch\obj\Debug\netcoreapp2.0\elasticsearch.pdb
