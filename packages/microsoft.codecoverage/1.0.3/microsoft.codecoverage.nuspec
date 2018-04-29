@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.CodeCoverage</id>
+    <version>1.0.3</version>
+    <title>Microsoft CodeCoverage</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://go.microsoft.com/fwlink/?LinkID=320539</licenseUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkID=386613</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Enable Verifiable Instrumentation for Microsoft CodeCoverage
+		
+		Supported platforms:
+		- .NET Core 1.0+
+		- ASP.NET Core 1.0+</description>
+    <copyright />
+    <language>en-US</language>
+    <tags>CodeCoverage Microsoft</tags>
+  </metadata>
+</package>
